@@ -1,0 +1,152 @@
+[
+  {
+    "machine-feelin": "neutral",
+    "rate": 600.02,
+    "timestamp": "09:12:56",
+    "user-tag": "happy"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 14.02,
+    "timestamp": "02:03:56",
+    "user-tag": "happy"
+  },
+  {
+    "machine-feelin": "sad",
+    "rate": 80.02,
+    "timestamp": "21:03:56",
+    "user-tag": "happy"
+  },
+  {
+    "machine-feelin": "sad",
+    "rate": 60.02,
+    "timestamp": "07:47:32",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "angry",
+    "rate": 70.42,
+    "timestamp": "15:12:00",
+    "user-tag": "sad"
+  },
+  {
+    "machine-feelin": "angry",
+    "rate": 70.42,
+    "timestamp": "15:12:00",
+    "user-tag": "sad"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 67,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "sad",
+    "rate": 120,
+    "timestamp": "13:56:59",
+    "user-tag": "angry"
+  },
+  {
+    "machine-feelin": "sad",
+    "rate": 80,
+    "timestamp": "73:56:55",
+    "user-tag": "angry"
+  },
+  {
+    "machine-feelin": "sad",
+    "rate": 70.54,
+    "timestamp": "13:06:55",
+    "user-tag": "happy"
+  },
+  {
+    "machine-feelin": "sad",
+    "rate": 89,
+    "timestamp": "08:98:89",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 65,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 65,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 65,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 65,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 65,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 65,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "angry",
+    "rate": 67,
+    "timestamp": "17:88:25",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 700,
+    "timestamp": "03:56:59",
+    "user-tag": "happy"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 99999,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 80,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 900,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 322,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 322,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  },
+  {
+    "machine-feelin": "happy",
+    "rate": 54,
+    "timestamp": "03:56:55",
+    "user-tag": "neutral"
+  }
+]
