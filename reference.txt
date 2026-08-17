@@ -1,5 +1,0 @@
-An endpoint that accepts these mood events (POST /events)
-Logic that merges them into one current "emotional state" using the priority rules
-An endpoint that returns a music playlist ID + a simple SVG based on that state
-A log of every event and decision (for audit/replay)
-An endpoint to replay old events and get the same result again
