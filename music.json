@@ -1,0 +1,26 @@
+{
+  "happy":[
+    {"name":"aasa kooda","freq":7},
+    {"name":"there bina","freq":3},
+    {"name":"shayadh meri","freq":9},
+    {"name":"naan unariginile","freq":5}
+  ],
+  "sad":[
+    {"name":"agar thum sath ho","freq":4},
+    {"name":"jo thum safar","freq":8},
+    {"name":"thum meri bin ab dhe","freq":2},
+    {"name":"amma amma nee yenga","freq":6}
+  ],
+  "angry":[
+    {"name":"oorum blood","freq":9},
+    {"name":"naatu naatu","freq":5},
+    {"name":"brazilian phonk","freq":7},
+    {"name":"minsarakanna","freq":3}
+  ],
+  "neutral":[
+    {"name":"malargal keten","freq":6},
+    {"name":"kadha kan kathudhe","freq":4},
+    {"name":"rangidhameh rangidhameh","freq":8},
+    {"name":"adraadra nakkumuka","freq":2}
+  ]
+  }
